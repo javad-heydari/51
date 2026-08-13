@@ -1,1 +1,9 @@
-{"name": "red-web-page", "version": "1.0.0", "description": "", "main": "index.html", "scripts": {"start": "node index.js"}, "keywords": [], "author": "", "license": "ISC"}
+{
+	"name": "simple-landing-page",
+	"version": "1.0.0",
+	"description": "A simple landing page",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {}
+}
